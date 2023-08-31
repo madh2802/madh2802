@@ -7,7 +7,7 @@
 
 
 
-- 🔭 **Enthusiastic and highly driven engineer with a strong work ethic.**
+- 🔭 **Enthusiastic and highly driven individual with a strong work ethic.**
 
 - 🌱 I’m currently learning **Node.js, MongoDB, MySQL**
 
