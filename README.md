@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data structures, Algorithms, WebD, Blockchain**
 
-- 📫 How to reach me **20bec009@iiitdwd.ac.in**
+- 📫 How to reach me - Email me at- **20bec009@iiitdwd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
